@@ -1,3 +1,3 @@
 # Tutorial 
 
-Some description..I guess
+Some description
